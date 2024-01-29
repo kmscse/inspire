@@ -1,0 +1,17 @@
+{
+    "name": "kmscse/inspire",
+    "autoload": {
+        "psr-4": {
+            "kms-cse\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kaung Myat San",
+            "email": "kaungmyatsan.cse@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
