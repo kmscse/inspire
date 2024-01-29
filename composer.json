@@ -2,7 +2,7 @@
     "name": "kmscse/inspire",
     "autoload": {
         "psr-4": {
-            "kms-cse\\Inspire\\": "src/"
+            "kmscse\\Inspire\\": "src/"
         }
     },
     "authors": [
